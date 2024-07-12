@@ -11,14 +11,13 @@ body{
 .google-fonts{
   font-family: "Josefin Sans", sans-serif;
   font-optical-sizing: auto;
-  font-weight: weight;
   font-style:normal;
 }
 
 h1{
   font-family: "Josefin Sans", sans-serif;
 
-  font-size: 2em;
+  font-size: 2rem;
 
   letter-spacing: 1.2em;
 
